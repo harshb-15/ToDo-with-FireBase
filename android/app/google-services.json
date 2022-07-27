@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "44987903299",
+    "project_id": "harshcrud",
+    "storage_bucket": "harshcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44987903299:android:423689bc39d821abab13f6",
+        "android_client_info": {
+          "package_name": "com.harsh.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44987903299-nmjoda1fu7sk0ndg3ucrra24oss98l98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO419EyK6nR0RR8i7OF9AJbpi-xT3wtLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44987903299-nmjoda1fu7sk0ndg3ucrra24oss98l98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44987903299:android:870729d9d23786c5ab13f6",
+        "android_client_info": {
+          "package_name": "com.harsh.iste_crud.iste_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44987903299-nmjoda1fu7sk0ndg3ucrra24oss98l98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO419EyK6nR0RR8i7OF9AJbpi-xT3wtLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44987903299-nmjoda1fu7sk0ndg3ucrra24oss98l98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
